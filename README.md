@@ -84,7 +84,7 @@ Steps :
 
 [10] Code for transfer learning and fine tuning on final layers is present in train_yolov3_darkdata.ipynb
 
-[11] Insights found on low light images using  ExDark dataset were documented in our paper. Please refer our Research paper(https://github.com/HarshithaGS/Object_Detection_in_Low_Light/blob/master/Research%20Paper/Research_Paper_NUID_001444756.pdf).
+[11] Insights found on low light images using  ExDark dataset were documented in our paper. Please refer our ([Research paper](https://github.com/HarshithaGS/Object_Detection_in_Low_Light/blob/master/Research%20Paper/Research_Paper_NUID_001444756.pdf)).
 
 
 
