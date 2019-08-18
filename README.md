@@ -2,9 +2,6 @@
   INFO7390 - Final Project
 
 
-
-
-# YOLOv3_Low_Light_Object_Detection
 This is a research project to understand the performance of YOLOv3 model in low light and find efficient ways to improve its performance in low light.
 We have used the Exclusively Dark (ExDark). We have compared the mAP(mean Average Precision) of YOLOv3 obtained on COCO dataset to that of the mAP obtained on ExDark dataset and identified that the efficiency of the algorithm is very less in low light when compared to normal image dataset. This research sums up the contrast-based image enhancement techniques applied to preprocess our dataset and compared the results with our benchmark obtained on original ExDark dataset. Also we have compared the training YOLOv3 from scratch and transfer learning techniques.
  
